@@ -1,1 +1,1 @@
-Faster Cycle Combination
+Faster Cycle Combinating
